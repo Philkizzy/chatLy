@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Dimanche15",
+    "database": "mern_chat",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Dimanche15",
+    "database": "mern_chat_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Dimanche15",
+    "database": "mern_chat_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
